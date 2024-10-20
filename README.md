@@ -1,4 +1,4 @@
-![logo](https://github.com/Sharanu26/Sharanu26/blob/main/Github.png) 
+![logo](https://github.com/Sharanu26/Sharanu26/blob/main/Sharanu.png) 
 <h1 align="center">Hi 👋, I'm Sharanaabasppa Halle</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Job Portal Website**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React,Tailwind Css**
 
