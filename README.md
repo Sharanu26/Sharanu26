@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **React,Tailwind Css**
+- 💬 Ask me about **React,Tailwind Css,Nodejs**
 
 - 📫 How to reach me **hallesharanu5@gmail.com**
 
