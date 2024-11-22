@@ -5,11 +5,11 @@
 
 <img align="right" alt=" coding " width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Social media Application**
+- 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **React,Tailwind Css,Nodejs**
+- 💬 Ask me about **React,Tailwind Css**
 
 - 📫 How to reach me **hallesharanu5@gmail.com**
 
